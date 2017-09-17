@@ -1,5 +1,18 @@
 # BrumjsPhotostream
 
+Run `ng g new brumjs-photostream --style sass `
+
+#Install [Angular Material](https://material.angular.io/guide/getting-started)
+
+Run `npm install --save @angular/material @angular/cdk`
+
+Run `npm install --save @angular/animations`
+
+#Install [Angular Flex-Layout](https://github.com/angular/flex-layout)
+
+Run `npm install --save @angular/flex-layout@latest`
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.2.
 
 ## Development server
